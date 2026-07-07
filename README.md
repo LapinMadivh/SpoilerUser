@@ -1,6 +1,7 @@
 # SpoilerUser
 
 A BetterDiscord plugin that automatically blurs (spoiler-style) all messages from one or more chosen usernames. Click a blurred message to reveal it.
+<img width="1036" height="103" alt="image" src="https://github.com/user-attachments/assets/be8649ee-8a05-47b7-8f88-b0f9c508024f" />
 
 ## Installation
 
